@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,arduino.cc
 # PT相关
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-KEYWORD,icc2022
+
+# github
+DOMAIN-KEYWORD,github
